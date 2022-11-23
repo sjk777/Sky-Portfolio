@@ -3,7 +3,7 @@
 }
 
 body {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   margin: 0px;
 }
 
@@ -19,10 +19,10 @@ nav {
 }
 
 nav a {
-  color: white;
+  color: whitesmoke;
   padding: 14px 20px;
-  text-decoration: none;
-  text-align:center;
+  text-decoration:dotted;
+  text-align: center;
 }
 
 main {
@@ -32,16 +32,17 @@ main {
 
 aside {
   flex: 1;
-  background-color: #b9c6ae;
+  background-color: black;
   padding: 80px;
   text-align: center;
+  color: white;
 }
 
 footer {
   padding: 20px;
   text-align: center;
-  background: #13293d;
-  color: #fff;
+  background: #e4d20c;
+  color: rgb(7, 3, 3);
 }
 
 .projects {
